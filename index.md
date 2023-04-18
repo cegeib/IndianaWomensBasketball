@@ -1,8 +1,8 @@
 ---
 layout: page
-show_title: false
+show_title: true
 banner:
-  collection: qatar
+  collection: IndianaWomensBasketball
   pid: obj10
   y: 25%
   height: '500px'
@@ -14,4 +14,4 @@ The collection items in this demo are from The Museum of Islamic Art, Qatar, (co
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='IndianaWomensBasketball' %}
