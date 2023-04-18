@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'IndianaWomensBasketball'
-description:      'Indiana Women's Basketball'
+title:            'Hooosiers'
+description:      'Fans of Indiana Women's Basketball'
 url:              'https://cegeib.github.io'
 baseurl:          '/IndianaWomensBasketball'
 copyright:        'to be updated'
