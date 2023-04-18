@@ -1,0 +1,137 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj5",
+    "label": "Tyler, Natalie, and friends: Inspired and Empowered",
+    "_date": "2/16/23",
+    "object_type": "The Fans",
+    "location": "Simon Skjodt Assembly Hall",
+    "description": "Tyler, Natalie, and their friends have been to mutiple IU women's basketball games. The girls go to Heritage Hills High School and said they really look up to the players on the team.",
+    "collection": "IndianaWomensBasketball",
+    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
+    "permalink": "/IndianaWomensBasketball/obj5",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj10",
+    "label": "Mark and Christie: Staying Close to Home",
+    "_date": "2/16/23",
+    "object_type": "The Fans",
+    "location": "Simon Skjodt Assembly Hall",
+    "description": "Mark and Christie have been going to IU women's basketball games for five years. They are both alumni, and their daughter is a current IU student.",
+    "collection": "IndianaWomensBasketball",
+    "thumbnail": "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",
+    "permalink": "/IndianaWomensBasketball/obj10",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj1",
+    "label": "Zoey: A Cheerful, Smiling Face Among Many",
+    "_date": "2/16/23",
+    "object_type": "The Crew",
+    "location": "Simon Skjodt Assembly Hall",
+    "description": "Zoey, an IU student, has been working at Simon Skjodt Assembly Hall for two years. Zoey loves getting to interact with the fans at work.",
+    "collection": "IndianaWomensBasketball",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "permalink": "/IndianaWomensBasketball/obj1",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj4",
+    "label": "Harold and Margarette: A Familiar Face in the Stands",
+    "_date": "2/16/23",
+    "object_type": "The Fans",
+    "location": "Simon Skjodt Assembly Hall",
+    "description": "Harold and Margarette have been attending IU women's basketball games for six years. Harold, who is retired, spent his career working in Simon Skjodt Assembly Hall as a part of the athletic department. Harold and Margarette said they remember when women's games had a much smaller crowd than there is today.",
+    "collection": "IndianaWomensBasketball",
+    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+    "permalink": "/IndianaWomensBasketball/obj4",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj11",
+    "label": "Charles: Tradition Tried and True",
+    "_date": "2/16/23",
+    "object_type": "The Fans",
+    "location": "Simon Skjodt Assembly Hall",
+    "description": "Charles has been attending IU games since Archie Miller was the coach. Charles said his first date with his late wife was an IU football game in 1953. What stands out to Charles about IU women's basketball is the excitment surrounding their wins.",
+    "collection": "IndianaWomensBasketball",
+    "thumbnail": "/img/derivatives/iiif/images/obj11/full/250,/0/default.jpg",
+    "permalink": "/IndianaWomensBasketball/obj11",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj9",
+    "label": "Gavin, Talia, and Marnie: Supporting Others Outside of the Stands",
+    "_date": "2/16/23",
+    "object_type": "The Crew",
+    "location": "Simon Skjodt Assembly Hall",
+    "description": "Gavin, Talia, and Marnie volunteer at the concessions stand at Simon Skjodt Assembly Hall. They are volunteering as a part of Boy Scouts, and part of the money they make will go directly towards Boy Scouts. The Boy Scouts have been volunteering at Simon Skjodt Assembly Hall for over fifteen years.",
+    "collection": "IndianaWomensBasketball",
+    "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
+    "permalink": "/IndianaWomensBasketball/obj9",
+    "lunr_id": 5
+  },
+  {
+    "pid": "obj8",
+    "label": "Julie and Patrick: New Traditions in the Making",
+    "_date": "2/16/23",
+    "object_type": "The Fans",
+    "location": "Simon Skjodt Assembly Hall",
+    "description": "Julie and Patrick graduated from IU in 2020. They hold season tickets for IU women's basketball because they love the energy and people at the games.",
+    "collection": "IndianaWomensBasketball",
+    "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
+    "permalink": "/IndianaWomensBasketball/obj8",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj3",
+    "label": "Riley, Caroline, and Carlie: Cheering for the Movement",
+    "_date": "2/16/23",
+    "object_type": "The Crew",
+    "location": "Simon Skjodt Assembly Hall",
+    "description": "Freshman cheerleaders Riley, Caroline, and Carlie love that the Spirit Squad supports the women's team. They love watching the rise in interest for the women's team and they find it exciting that they have been able to make connections with girls on the basketball team.",
+    "collection": "IndianaWomensBasketball",
+    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
+    "permalink": "/IndianaWomensBasketball/obj3",
+    "lunr_id": 7
+  },
+  {
+    "pid": "obj7",
+    "label": "Eddy and Donald: Memories in the Making",
+    "_date": "2/16/23",
+    "object_type": "The Fans",
+    "location": "Simon Skjodt Assembly Hall",
+    "description": "Eddy and Donald, IU seniors, have been going to IU women's basketball games for about four years. They love how energetic the environment of Simon Skjodt Assembly Hall is.",
+    "collection": "IndianaWomensBasketball",
+    "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+    "permalink": "/IndianaWomensBasketball/obj7",
+    "lunr_id": 8
+  },
+  {
+    "pid": "obj6",
+    "label": "Reyna and Eric: From One Generation to the Next",
+    "_date": "2/16/23",
+    "object_type": "The Fans",
+    "location": "Simon Skjodt Assembly Hall",
+    "description": "Eric and his daughter, Reyna, are season ticket holders for IU women's basketball. The pair said they love the energy and the fun environment of Simon Skjodt Assembly Hall.",
+    "collection": "IndianaWomensBasketball",
+    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
+    "permalink": "/IndianaWomensBasketball/obj6",
+    "lunr_id": 9
+  },
+  {
+    "pid": "obj2",
+    "label": "Ava and Riley: Fueling the Spirit",
+    "_date": "2/16/23",
+    "object_type": "The Crew",
+    "location": "Simon Skjodt Assembly Hall",
+    "description": "Ava and Riley have been working at the merchandise stand for IU women's basketball games for three months. They said that the fans are always very happy and kids especially enjoy the games.",
+    "collection": "IndianaWomensBasketball",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
+    "permalink": "/IndianaWomensBasketball/obj2",
+    "lunr_id": 10
+  }
+]
