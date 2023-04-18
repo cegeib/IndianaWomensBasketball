@@ -20,9 +20,9 @@
 
 title:            'IndianaWomensBasketball'
 description:      'Indiana Women's Basketball'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+url:              'https://cegeib.github.io'
+baseurl:          '/IndianaWomensBasketball'
+copyright:        'to be updated'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -88,12 +88,11 @@ search:
       IndianaWomensBasketball:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
           - location
           - label
           - _date
           - object_type
-          - current_location
+          - description
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -132,11 +131,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/cegeib/IndianaWomensBasketball'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'mailto:cegeib@iu.edu'
   logos:
     - img: '/img/logo.png'
 
