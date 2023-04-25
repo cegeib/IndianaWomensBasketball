@@ -8,10 +8,7 @@ banner:
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+Who attends Women’s Basketball games? Explore the IUWBB fans below. 
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+IU is a basketball school, so like every year, Hoosier fans packed inside Assembly Hall to cheer on their team for the 2023 season. Only this year the women’s team began to gain some of their deserved popularity too. Some of their fans have been around for decades and some attended their first Women’s game this year. Check out some of their fanbase below!
 
-### Browse the Collection
-
-{% include collection_gallery.html facet_by='object_type' collection='IndianaWomensBasketball' %}
