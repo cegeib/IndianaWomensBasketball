@@ -4,7 +4,4 @@ title: Browse the Collection
 permalink: /collection/
 ---
 
-This site's sample collection comprises ....
-
-
-{% include collection_gallery.html collection='IndianaWomensBasketball' facet_by='object_type' %}
+All of our images were taken at the Simon Skjodt Assembly Hall at Indiana University. They were collected by attending a women's basketball game and approaching different fans to meet and photograph them. 
