@@ -5,8 +5,6 @@ permalink: /reuse/
 collection: IndianaWomensBasketball
 ---
 
-Wax is inspired by [FAIR data principles](https://journal.code4lib.org/articles/13427), and as such strives to make its collections findable, accessible, interoperable and reusable.
+Our Wax site was created through the use of a metadata record which named and captioned all of our images to be translated to the website. Anyone who has access to this metadata record would be able to use it to create the same website as we have. People can also replace our image information with their own to make their own projects on Wax. 
 
-The demo site comes with a specific `_include` called `interactive_metadata_table` to help you make pages like this one complete with interactive [DataTables](https://datatables.net/) and downloadable CSVs of collection metadata.
 
-{% include interactive_metadata_table.html collection=page.collection %}
