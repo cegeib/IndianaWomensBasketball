@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'IndianaWomensBasketball'
+title:            'Go Hoosiers!'
 description:      "The fan culture of Indiana University Women's Basketball."
 url:              'https://cegeib.github.io'
 baseurl:          '/IndianaWomensBasketball'
