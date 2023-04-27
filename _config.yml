@@ -112,10 +112,8 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Tradition Tried and True'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
