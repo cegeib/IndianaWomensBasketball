@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'IndianaWomensBasketball'
-description:      'The fan culture of Indiana University Women's Basketball.'
+description:      "The fan culture of Indiana University Women's Basketball."
 url:              'https://cegeib.github.io'
 baseurl:          '/IndianaWomensBasketball'
 copyright:        'to be updated'
