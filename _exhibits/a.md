@@ -1,6 +1,7 @@
 ---
 layout: exhibit
 title: 'Exhibit A: Tradition Tried and True'
+publish_date: Thursday, April 27, 2023
 permalink: /exhibits/a/
 ---
 
